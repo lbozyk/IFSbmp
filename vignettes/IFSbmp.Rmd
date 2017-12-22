@@ -24,7 +24,7 @@ IFSbmp is a package built to facilitate drawing IFS (iterated function system) t
 This package is not available on CRAN at the moment. The way to obtain IFSbmp is to install it by typing the following command in R console:
 
 ```{r, eval=FALSE}
-install_github(".../IFSbmp")
+install_github("https://github.com/lbozyk/IFSbmp")
 ```
 
 ## Functions
